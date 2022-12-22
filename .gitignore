@@ -1,0 +1,19 @@
+*.pyc
+*.egg-info
+.coverage
+build
+dist
+.tox
+debian/.debhelper/**
+debian/files
+debian/pygtail/**
+debian/tmp/**
+debian/python-pygtail*
+debian/python3-pygtail*
+.pybuild/
+lib/__pycache__/*
+tarea_manuel_cano.py
+*.offset
+sid_sin_clasificar.csv
+03 procesador alertas/salida/*
+03 procesador alertas/alert.csv

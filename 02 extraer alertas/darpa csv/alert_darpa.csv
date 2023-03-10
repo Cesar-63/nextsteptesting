@@ -1,3 +1,4 @@
+timestamp,sig_generator,sig_id,sig_rev,msg,proto,src,srcport,dst,dstport,ethsrc,ethdst,ethlen,tcpflags,tcpseq,tcpack,tcplen,tcpwindow,ttl,tos,id,dgmlen,iplen,icmptype,icmpcode,icmpid,icmpseq
 03/07-14:51:36.142272 ,1,384,5,"ICMP PING",ICMP,202.77.162.213,,172.16.115.5,,00:10:5A:9C:B2:8E,00:C0:4F:A3:57:DB,0x3C,,,,,,253,0,9632,38,38912,8,0,2049,2574
 03/07-14:51:36.142481 ,1,408,5,"ICMP Echo Reply",ICMP,172.16.112.194,,202.77.162.213,,00:C0:4F:A3:57:DB,00:10:5A:9C:B2:8E,0x3C,,,,,,64,0,10094,38,38912,0,0,2049,2574
 03/07-14:51:36.522920 ,1,384,5,"ICMP PING",ICMP,202.77.162.213,,172.16.115.20,,00:10:5A:9C:B2:8E,08:00:20:89:BA:28,0x3C,,,,,,253,0,9647,38,38912,8,0,2049,6414
